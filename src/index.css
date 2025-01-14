@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.layout {
+  position: relative;
+}
+.alert {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.212);
+  width: 100vw;
+  height: 100vh;
+}
+.box-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.alert-content {
+  width: 50rem;
+  height: 50rem;
+  background-color: white;
+}
