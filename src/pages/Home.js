@@ -25,7 +25,7 @@ const Home = () => {
                         </li>
                         <li className='note'>
                             Para cualquier problema, acude al departamento de sistemas de ITECCE 
-                            o manda un mensaje por WhatsApp al número: <b>314 138 2130</b>.
+                            o manda un mensaje por WhatsApp al número: <b>314 102 3884</b>.
                         </li>
                     </ul>
                </div>
